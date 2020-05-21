@@ -5,5 +5,5 @@ A simple day to day todo list
 2.open terminal inside the directory where app.js file is located
 3.run the following command in terminal
   $node app.js
-4.open any browser and goto the address htpps://http://localhost:3000/
+4.open any browser and goto the address http://localhost:3000/
 5.Tada! a new todo-list app is started running at your localhost.
